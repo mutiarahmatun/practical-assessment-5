@@ -1,6 +1,6 @@
 package com.seleniumadvanced.tests;
 
-import com.automationexercise.pages.LoggedHomePage;
+import com.seleniumadvanced.pages.LoggedHomePage;
 import io.qameta.allure.*;
 import org.json.simple.parser.ParseException;
 import org.testng.Assert;

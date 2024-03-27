@@ -1,7 +1,7 @@
 package com.seleniumadvanced.tests;
 
-import com.automationexercise.pages.ContactUsPage;
-import com.automationexercise.pages.HomePage;
+import com.seleniumadvanced.pages.ContactUsPage;
+import com.seleniumadvanced.pages.HomePage;
 import io.qameta.allure.*;
 import org.testng.Assert;
 import org.testng.annotations.Test;

@@ -1,8 +1,8 @@
 package com.seleniumadvanced.tests;
 
-import com.automationexercise.pages.HomePage;
-import com.automationexercise.pages.ProductDetailPage;
-import com.automationexercise.pages.ProductsPage;
+import com.seleniumadvanced.pages.HomePage;
+import com.seleniumadvanced.pages.ProductDetailPage;
+import com.seleniumadvanced.pages.ProductsPage;
 import io.qameta.allure.*;
 import org.testng.Assert;
 import org.testng.annotations.Test;

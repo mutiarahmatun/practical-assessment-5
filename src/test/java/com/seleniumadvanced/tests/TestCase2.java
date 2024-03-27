@@ -1,8 +1,8 @@
 package com.seleniumadvanced.tests;
 
-import com.automationexercise.pages.HomePage;
-import com.automationexercise.pages.LoginSignupPage;
-import com.automationexercise.utils.JSONReader;
+import com.seleniumadvanced.pages.HomePage;
+import com.seleniumadvanced.pages.LoginSignupPage;
+import com.seleniumadvanced.utils.JSONReader;
 import io.qameta.allure.*;
 import org.json.simple.parser.ParseException;
 import org.testng.Assert;

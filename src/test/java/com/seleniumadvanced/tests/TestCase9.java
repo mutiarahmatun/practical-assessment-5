@@ -1,7 +1,7 @@
 package com.seleniumadvanced.tests;
 
-import com.automationexercise.pages.ProductsPage;
-import com.automationexercise.utils.PropertiesLoader;
+import com.seleniumadvanced.pages.ProductsPage;
+import com.seleniumadvanced.utils.PropertiesLoader;
 import io.qameta.allure.*;
 import org.testng.Assert;
 import org.testng.annotations.Test;

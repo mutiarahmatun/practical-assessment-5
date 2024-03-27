@@ -1,7 +1,7 @@
 package com.seleniumadvanced.tests;
 
-import com.automationexercise.pages.LoginSignupPage;
-import com.automationexercise.utils.Util;
+import com.seleniumadvanced.pages.LoginSignupPage;
+import com.seleniumadvanced.utils.Util;
 import io.qameta.allure.*;
 import org.testng.Assert;
 import org.testng.annotations.Test;

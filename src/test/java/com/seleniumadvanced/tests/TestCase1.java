@@ -1,7 +1,7 @@
 package com.seleniumadvanced.tests;
 
-import com.automationexercise.pages.*;
-import com.automationexercise.utils.Util;
+import com.seleniumadvanced.pages.*;
+import com.seleniumadvanced.utils.Util;
 import io.qameta.allure.*;
 import org.json.simple.parser.ParseException;
 import org.testng.Assert;

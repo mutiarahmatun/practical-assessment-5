@@ -1,7 +1,7 @@
 package com.seleniumadvanced.tests;
 
-import com.automationexercise.utils.BrowserManager;
-import com.automationexercise.utils.PropertiesLoader;
+import com.seleniumadvanced.utils.BrowserManager;
+import com.seleniumadvanced.utils.PropertiesLoader;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;

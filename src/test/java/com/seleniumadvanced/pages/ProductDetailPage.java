@@ -1,7 +1,7 @@
 package com.seleniumadvanced.pages;
 
-import com.automationexercise.utils.JSONReader;
-import com.automationexercise.utils.SeleniumHelper;
+import com.seleniumadvanced.utils.JSONReader;
+import com.seleniumadvanced.utils.SeleniumHelper;
 import org.json.simple.parser.ParseException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

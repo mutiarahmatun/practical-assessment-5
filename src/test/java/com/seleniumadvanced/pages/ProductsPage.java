@@ -1,6 +1,6 @@
 package com.seleniumadvanced.pages;
 
-import com.automationexercise.utils.SeleniumHelper;
+import com.seleniumadvanced.utils.SeleniumHelper;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
